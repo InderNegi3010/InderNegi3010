@@ -102,7 +102,7 @@ An AI SaaS tool that removes backgrounds from images instantly.
 ---
 
 ## 🌍 Connect With Me  
-- 🌐 Portfolio: [Portfolio Website](https://protfolio-inder-negi.vercel.app/)  
+- 🌐 Portfolio: [Portfolio Website](https://inder-negi.vercel.app/)  
 - 💼 LinkedIn: [Inder Singh Negi](https://linkedin.com/in/inder-singh-negi-937477354)  
 - 📧 Email: **indernegi283@gmail.com**  
 
